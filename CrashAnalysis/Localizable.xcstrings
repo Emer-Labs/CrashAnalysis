@@ -1,0 +1,167 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "atos command not found" : {
+      "comment" : "没有找到 atos 命令",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没有找到 atos 命令"
+          }
+        }
+      }
+    },
+    "Crash Analysis" : {
+      "comment" : "崩溃分析",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crash 分析"
+          }
+        }
+      }
+    },
+    "Crash File" : {
+      "comment" : "选择 .crash 文件，可以是 .txt",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crash File (.crash .txt)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crash 文件 (.crash .txt)"
+          }
+        }
+      }
+    },
+    "dSYM File" : {
+      "comment" : "选择 .dSYM 文件",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dSYM File (.dSYM)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dSYM 文件 (.dSYM)"
+          }
+        }
+      }
+    },
+    "DWARF file not found in dSYM" : {
+      "comment" : "没有在 dSYM 中找到 DWARF 文件",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "没有在 dSYM 中找到 DWARF 文件"
+          }
+        }
+      }
+    },
+    "Error parsing address: %@" : {
+      "comment" : "解析地址错误",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解析地址错误: %@"
+          }
+        }
+      }
+    },
+    "Error read the crash file failed: %@" : {
+      "comment" : "读取 crash 文件失败",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "读取 crash 文件失败: %@"
+          }
+        }
+      }
+    },
+    "Error running atos command for address: %@" : {
+      "comment" : "运行 atos 命令获取地址错误",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "运行 atos 命令获取地址错误: %@"
+          }
+        }
+      }
+    },
+    "Invalid address or offset" : {
+      "comment" : "无效的地址或偏移量",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无效的地址或偏移量"
+          }
+        }
+      }
+    },
+    "Parse Crash File" : {
+      "comment" : "解析 Crash 文件",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解析 Crash 文件"
+          }
+        }
+      }
+    },
+    "Please select both dSYM and Crash files" : {
+      "comment" : "请选择 dSYM 和 Crash 文件",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请选择 dSYM 和 Crash 文件"
+          }
+        }
+      }
+    },
+    "Processing..." : {
+      "comment" : "处理中...",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "处理中..."
+          }
+        }
+      }
+    },
+    "select or drop" : {
+      "comment" : "选择或通过鼠标拖入对应文件",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select File / Drag and Drop File"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择文件或拖入文件"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
